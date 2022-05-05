@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @fratzolaki
-- 👀 I’m interested in learing Lua
-- 🌱 I’m currently learning Nextcord
 - 📫 How to reach me: EMAIL-stevepsom@gmail.com
                        Discord:!Stef#2551
 - 
